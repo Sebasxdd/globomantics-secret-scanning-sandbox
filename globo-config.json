@@ -1,0 +1,10 @@
+{
+  "development": {
+    "auth": "gbot-dev-aaaaaaaabbbbcccc",
+    "backup": "gbot-dev-ddddeeeeffffgggg"
+  },
+  "production": {
+    "auth": "gbot-prod-1111222233334444",
+    "backup": "gbot-prod-5555666677778888"
+  }
+} 
