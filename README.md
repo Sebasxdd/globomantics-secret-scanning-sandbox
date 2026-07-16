@@ -2,8 +2,8 @@
 
 > DevSecOps demonstration of GitHub Advanced Security secret scanning with custom patterns and automated response workflows.
 
-<!-- TESTING: intentional high-entropy secret to trigger secret scanning alert -->
-SLACK_WEBHOOK_TEST=https://hooks.slack.com/services/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
+<!-- TESTING: intentional high-entropy secret to trigger secret scanning alert (round 2, now that workflow lives on main) -->
+SLACK_WEBHOOK_TEST_2=https://hooks.slack.com/services/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
 
 ## Secret Scanning Flow
 
